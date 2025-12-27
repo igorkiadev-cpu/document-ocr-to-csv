@@ -1,4 +1,3 @@
-
 # Document OCR to CSV
 
 Simple Python tool to extract structured data from delivery notes (PDF files) and convert them into CSV format.
@@ -21,9 +20,10 @@ This project is designed to automate the processing of delivery notes, reducing 
 1. Input: Delivery note in PDF format  
 2. Text is extracted using OCR  
 3. Relevant fields are parsed  
-4. Output: Structured CSV file
+4. Output: Structured CSV file  
 
 ## Status
 Prototype / Portfolio project
 
-Note: OCR extraction is simulated for demonstration purposes.
+**Note:** OCR extraction is simulated for demonstration purposes.
+
